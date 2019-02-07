@@ -11,7 +11,7 @@ def argue(x)
 end
 
 def greeting(x, y)
-
+  raise_error(x)
 end
 
 def return_a_value
